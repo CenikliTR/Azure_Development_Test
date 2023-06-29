@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.FurioosConnectionKit", "Unity.FurioosConnectionKit.csproj", "{D789AF91-B44E-8097-97F8-98BDC4B4B6EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.FurioosSDK", "Unity.FurioosSDK.csproj", "{7674158C-8680-26B7-BEAB-76A48F88A2F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.FurioosSDK.FurioosSDKSample", "Unity.FurioosSDK.FurioosSDKSample.csproj", "{45233F1D-9873-459C-AB46-96E2891388AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{E41690A6-D28B-5B1B-5206-0D45BD193611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.FurioosExporter.Editor", "Unity.FurioosExporter.Editor.csproj", "{41EFF609-9629-1EBF-333A-27947138CF23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.FurioosSDK.Editor", "Unity.FurioosSDK.Editor.csproj", "{F7400582-161E-D6B2-BB26-D3F1A3E749DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D789AF91-B44E-8097-97F8-98BDC4B4B6EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D789AF91-B44E-8097-97F8-98BDC4B4B6EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D789AF91-B44E-8097-97F8-98BDC4B4B6EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D789AF91-B44E-8097-97F8-98BDC4B4B6EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7674158C-8680-26B7-BEAB-76A48F88A2F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7674158C-8680-26B7-BEAB-76A48F88A2F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7674158C-8680-26B7-BEAB-76A48F88A2F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7674158C-8680-26B7-BEAB-76A48F88A2F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45233F1D-9873-459C-AB46-96E2891388AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45233F1D-9873-459C-AB46-96E2891388AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45233F1D-9873-459C-AB46-96E2891388AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45233F1D-9873-459C-AB46-96E2891388AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E41690A6-D28B-5B1B-5206-0D45BD193611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E41690A6-D28B-5B1B-5206-0D45BD193611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E41690A6-D28B-5B1B-5206-0D45BD193611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E41690A6-D28B-5B1B-5206-0D45BD193611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41EFF609-9629-1EBF-333A-27947138CF23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41EFF609-9629-1EBF-333A-27947138CF23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41EFF609-9629-1EBF-333A-27947138CF23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41EFF609-9629-1EBF-333A-27947138CF23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7400582-161E-D6B2-BB26-D3F1A3E749DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7400582-161E-D6B2-BB26-D3F1A3E749DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7400582-161E-D6B2-BB26-D3F1A3E749DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7400582-161E-D6B2-BB26-D3F1A3E749DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
